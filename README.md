@@ -1,1 +1,3 @@
-# algo
+Algorithm
+Tasks:
+a)Consecutive units
