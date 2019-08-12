@@ -1,8 +1,11 @@
-B. Consecutive units
+Task. Consecutive units
 
 Time Limit -------------------1 second
+
 Memory limit------------------64Mb
+
 Input standard input or input.txt
+
 Output standard output or output.txt
 
 It is required to find the longest sequence of units in the binary vector and print its length.
