@@ -1,8 +1,8 @@
-Algorithm
+### Algorithm
 
 Tasks:
 
-1)Consecutive units
+1. Consecutive units
 
-2)Bracket Sequence Generation
+2. Bracket Sequence Generation
 
