@@ -4,5 +4,7 @@ Tasks:
 
 1. Consecutive units
 
-2. Bracket Sequence Generation
+1. Bracket Sequence Generation
+
+3. Anagrams
 
