@@ -1,0 +1,19 @@
+# Ignore file create IDE QtCreator
+*.pro.user
+
+*.orig
+
+# Build file results
+dist/
+*.in
+build/
+.idea/
+[Mm]akefile
+version.h
+cmake*
+
+*.stash
+
+# Build package file
+*.deb
+

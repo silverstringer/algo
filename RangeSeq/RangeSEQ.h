@@ -51,7 +51,7 @@ std::map<int, int> RangeSeq <T>::make_range_seq(T &seq, int sum_bande) {
 
     auto size_container = seq.size();
 
-    std::map<int, int > range;
+    std::map<int, int> range;
 
     if(!std::is_arithmetic<T>::value)
         return range;

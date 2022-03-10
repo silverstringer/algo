@@ -19,9 +19,5 @@ add_subdirectory(bracketgen)
 add_subdirectory(consecutive)
 add_subdirectory(RangeSeq)
 add_subdirectory(tests)
+add_subdirectory(common)
 
-set(PROGS anagrams)
-
-foreach(item ${PROGS})
-    add_executable(${item} "${item}.cpp")
-endforeach(item)

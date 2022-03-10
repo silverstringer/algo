@@ -3,6 +3,7 @@
 
 int main () {
 
-  return 0;
+  std::cout <<"Empty body. See test";
 
+  return 0;
 }

@@ -8,3 +8,4 @@ Tasks:
 
 3. Anagrams
 
+4. RangeSeq 
